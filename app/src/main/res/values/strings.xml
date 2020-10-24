@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="btnAcceder">Access</string>
+    <string name="textBoxUsuario">User</string>
+    <string name="textBoxClave">Password</string>
+    <string name="textOlvidaste">Forgot your password?</string>
+    <string name="imgLogo" translatable="false">Logo de la empresa dueña de la app</string>
+    <string name="imgHuellaDigital" translatable="false">imagen de incio</string>
+</resources>
+
